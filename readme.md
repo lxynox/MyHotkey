@@ -4,12 +4,12 @@
   - quicklauncher.bat </br>
 	Run this program after hotkeys are set
   - keymap.txt  </br>
-	user has two way to change its content: </br>
+	user has two ways to change its content: </br>
       - change it directly by open this file and modify file its content 
       - follow the instructions on hotkeysetter.bat and change its content
   - readme.txt </br>
 	user manual of this program
-
+> list of items
 #WorkFlow
 1. open hotkeysetter.bat and follow its instructions 
 2. open quicklauncher to quick launch your target program
