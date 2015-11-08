@@ -1,0 +1,4 @@
+HOTKEY,         PATH         
+java,   "c:\Program Files (x86)\Java\jre6\bin\java.exe"   
+python, C:\Python27\python.exe 
+matlab,  "C:\Program Files\MATLAB\R2014b\bin\matlab.exe"  
