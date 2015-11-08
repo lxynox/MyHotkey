@@ -1,4 +1,4 @@
-MyHotkey
+#MyHotkey
   - hotkeysetter.bat 
 	Run this program first to set the hotkey and its path
   - quicklauncher.bat
@@ -10,7 +10,7 @@ MyHotkey
   - readme.txt	
 	user manual of this program
 
-WorkFlow
+#WorkFlow
 1. open hotkeysetter.bat and follow its instructions 
 2. open quicklauncher to quick launch your target program
 3. Or your can ommit step 1 by manually changing the content in keymap.txt 
@@ -21,4 +21,4 @@ WorkFlow
 
 
 revised version 1.0 (Better use Git for control version)
-	quick launcher changed - change start %%H to CMD /k %%H
+  - quick launcher changed - change start %%H to CMD /k %%H
