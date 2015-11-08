@@ -20,5 +20,6 @@
 5. currently, the key is case sensitive, while the path is not
 
 
-revised version 1.0 (Better use Git for control version)
+> revised version 1.0 (Better use Git for control version)
   - quick launcher changed - change start %%H to CMD /k %%H
+
