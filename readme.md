@@ -9,7 +9,7 @@
       - follow the instructions on hotkeysetter.bat and change its content
   - readme.txt </br>
 	user manual of this program
-> list of items
+
 #WorkFlow
 1. open hotkeysetter.bat and follow its instructions 
 2. open quicklauncher to quick launch your target program
