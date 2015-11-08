@@ -1,14 +1,14 @@
 #MyHotkey
   - hotkeysetter.bat 
-	Run this program first to set the hotkey and its path
+	> Run this program first to set the hotkey and its path
   - quicklauncher.bat
-	Run this program after hotkeys are set
+	> Run this program after hotkeys are set
   - keymap.txt  
 	user has two way to change its content:
-	  1. change it directly by open this file and modify file its content 
-          2. follow the instructions on hotkeysetter.bat and change its content
+	> change it directly by open this file and modify file its content 
+        > follow the instructions on hotkeysetter.bat and change its content
   - readme.txt	
-	user manual of this program
+	> user manual of this program
 
 #WorkFlow
 1. open hotkeysetter.bat and follow its instructions 
