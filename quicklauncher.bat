@@ -10,7 +10,7 @@ ECHO current time and date
 ECHO %Time% . %Date%
 
 :: current directory info
-DIR
+:: DIR
 
 :: ECHO your network status are stored in ipconfig file
 :: IPConfig > ipconfig.txt
@@ -31,8 +31,7 @@ FOR /F "tokens=1,2 delims=," %%G IN (keymap.txt) DO (
 )
 
 
-PING http://home.allenlxy.com
-ECHO eof
+:: ECHO eof
 PAUSE
 
 :: DO IT RECURSIVELY 
